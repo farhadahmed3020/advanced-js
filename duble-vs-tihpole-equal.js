@@ -1,5 +1,5 @@
 // bulian constance 0= false &  1= true consideration.
-// == only value consider but  === value and type consider.
+// == only value consider but  === value and type consider. 
 const first = 0;
 const second = false;
 if (first == second) {
